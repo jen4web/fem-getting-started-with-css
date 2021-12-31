@@ -3,7 +3,7 @@ Goes with the course "Getting Started with CSS" at Frontend Masters, recorded Oc
 
 Course website, including instructions, CodePen demos and exercises, and model final site are available at https://gettingstartedwith.css.education
 
-Course videos available at https://frontendmasters.com/teachers/jen-kramer/
+Course videos available at https://frontendmasters.com/courses/getting-started-css/
 
 ## License: 
 
